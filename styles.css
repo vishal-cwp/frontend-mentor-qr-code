@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Outfit:wght@100..900&display=swap');
+
+body {
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+}
+#outermost-container {
+    display: flex;
+    align-items: center;
+}
+#qr-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+#main-container {
+    width: 220px;
+    padding: 8px 8px 24px 8px;
+    background-color: white;
+}
